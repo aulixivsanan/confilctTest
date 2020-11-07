@@ -11,12 +11,6 @@ class Add(unittest.TestCase):
     def test01(self):
         print('1+1')
 
-    def test02(self):
-        print('2+2')
-
-    def test03(self):
-        print('3+3')
-
     def test03(self):
         print('3+3')
 
