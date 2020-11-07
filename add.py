@@ -11,6 +11,8 @@ class Add(unittest.TestCase):
     def test01(self):
         print('1+1')
 
+    def test02(self):
+        print('2+2')
 
 if __name__ == '__main__':
     unittest.main()
